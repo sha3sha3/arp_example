@@ -4,6 +4,7 @@
 int main()
 {
     printf(MY_STRING);
+    printf("Git");
 
     return 0;
 }
